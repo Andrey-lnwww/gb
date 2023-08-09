@@ -1120,19 +1120,19 @@ input::-webkit-inner-spin-button {
 }
 
 .advantages__header-icon1::before {
-  background: url("../img/icons/adv1.svg") 0 0 no-repeat;
+  background: url("../img/icons/advantages1.svg") 0 0 no-repeat;
 }
 
 .advantages__header-icon2::before {
-  background: url("../img/icons/adv2.svg") 0 0 no-repeat;
+  background: url("../img/icons/advantages2.svg") 0 0 no-repeat;
 }
 
 .advantages__header-icon3::before {
-  background: url("../img/icons/adv3.svg") 0 0 no-repeat;
+  background: url("../img/icons/advantages3.svg") 0 0 no-repeat;
 }
 
 .advantages__header-icon4::before {
-  background: url("../img/icons/adv4.svg") 0 0 no-repeat;
+  background: url("../img/icons/advantages4.svg") 0 0 no-repeat;
 }
 
 .advantages__description {
